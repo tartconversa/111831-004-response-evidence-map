@@ -6,7 +6,7 @@ node_modules/
 venv/
 dist/
 build/
-coverage/
+/coverage/
 __pycache__/
 *.py[cod]
 .DS_Store
